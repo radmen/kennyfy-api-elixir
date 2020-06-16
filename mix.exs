@@ -24,7 +24,7 @@ defmodule KennyfyApp.MixProject do
     [
       {:plug_cowboy, "~> 2.0"},
       {:poison, "~> 3.1"},
-      {:kennyfy, git: "git@github.com:radmen/kennyfy-elixir.git"}
+      {:kennyfy, git: "https://github.com/radmen/kennyfy-elixir.git"}
     ]
   end
 end
